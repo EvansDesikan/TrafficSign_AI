@@ -24,7 +24,7 @@ I built a custom CNN with the following layers:
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/TrafficSign_AI.git](https://github.com/YOUR_USERNAME/TrafficSign_AI.git)
+    git clone https://github.com/EvansDesikan/TrafficSign_AI.git
     cd TrafficSign_AI
     ```
 2.  **Install dependencies:**
